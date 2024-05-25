@@ -1,4 +1,9 @@
-## Hi there 👋
+# Prateek Dwivedi
+I’m a final year PhD student in department of Computer Science and Engineering at Indian Institute of Technology Kanpur under the guidance of Prof Nitin Saxena. My research interest lies in the area of Theoretical Computer Science. Specifically, I work in the domain of Algebraic Complexity Theory. At times I also like to spend time to study areas like Graph Theory, Algorithms, Computational Number Theory and Group Testing Problems.
+
+I am an avid reader and a bibliophile. Usually, I don’t have a preference over the genre, but I do like to read well-researched fiction, biographies and self-help books. Outside Academia, I prefer to spend time with people discussing books, unless of course, I’m reading a book. Occasionally I blog post here on things of general interest to me, that deserves a more permanent form than a social media post.
+
+You can find my contact details below in the footer. Feel free to connect with me for anything that you think needs my attention. By any chance, you are feeling hesitant to approach me wondering if that’s appropriate; don’t. I would appreciate getting in touch with you.
 
 <!--
 **prateekdwv/prateekdwv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
